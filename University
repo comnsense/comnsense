@@ -1,0 +1,137 @@
+<html>
+
+<head>
+</head>
+<body>
+<div class="mdc-layout-grid GridInContainer"> 
+
+<main class="SwitchableContentContainer mdc-layout-grid__inner"> 
+
+<div id="SwitchableContent" class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-phone mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-8-desktop">
+<div class="SwitchableGroup js-content-description is-visible" data-id="description">
+<article class="ModulesContainer" style="">
+<div data-module="Study:study_description"
+class="Module StudyPortals_Shared_Modules_Study_Description_Description"> 
+<section id="StudyDescription"> 
+<h2>Overview
+</h2> 
+<p>  At Computing and Computer Science&nbsp;from Varna Free University "Chernorizets Hrabar" the student actually forms their own profile by choosing elective 
+and optional courses.&nbsp;
+</p>
+The training is organized in a way, which provides the opportunity for horizontal mobility within the major and offers courses
+that can be selected by students in other majors at the university.&nbsp;Students are encouraged to participate in Academic mobility - sectoral program Erasmus.<h4>
+
+Students at&nbsp;Computing and Computer Science&nbsp;from Varna Free University "Chernorizets Hrabar" will:</h4><ul><li>acquire specific theoretical knowledge and practical skills to support successful career in IT industry.&nbsp;</li></ul><ul><li>be participating in different forms of co-working with IT companies during their study.</li></ul>  </section> </div></article></div><div class="SwitchableGroup js-content-contents" data-id="contents"><article class="ModulesContainer"><div data-module="Study:study_contents" class="Module StudyPortals_Shared_Modules_Study_DetailedInformation_Contents_Contents"> <article id="StudyContents"> <h2>Programme Structure</h2> <p><strong>Courses include:</strong></p><ul><li>Web Technologies</li></ul><ul><li>Programming</li></ul><ul><li>Mobile Apps Development</li></ul><ul><li>Risk Management in IT Business</li></ul><ul><li>Probability and Statistics</li></ul><ul><li>Cybersecurity</li></ul><ul><li>Psychology of Intelligence</li></ul><ul><li>Computer Networks and Communications</li></ul> </article> </div></article></div><div class="SwitchableGroup js-content-requirement" data-id="requirement"><article class="ModulesContainer"><div data-module="Study:study_admission_requirements" class="Module StudyPortals_Shared_Modules_Study_DetailedInformation_AdmissionRequirements_AdmissionRequirements"> <section id="AdmissionRequirements"> <article id="AcademicRequirements"> <h2>Academic requirements</h2> <div class="NoRequirements"> <p class="NoRequirementsInfo">We are not aware of any academic requirements for this programme.</p> </div> </article> <article id="EnglishRequirements"> <h2>English requirements</h2> <div class="NoRequirements"> <p class="NoRequirementsInfo">We are not aware of any English requirements for this programme.</p> </div> </article> <article id="OtherRequirements"> <h2>Other requirements</h2> <div class="OtherRequirementsContent"> <div> <h3>General requirements</h3> <ul><li>an&nbsp;Application form&nbsp;addressed to the Rector of VFU with brief biographical data, the courses of study and the educational-and-qualification degree, which they are applying for</li></ul><ul><li>a copy of the document for completed secondary education, and of the appendix thereof with the grades, or a document issued by a competent authority for recognition of a degree of education.&nbsp;&nbsp;</li></ul><ul><li>a document issued by a competent authority, certifying that the candidate is entitled to continue his/her education at the higher education institutions in the country where the secondary education was acquired</li></ul><ul><li>a document issued by a competent authority, certifying that the holder of the document has been enrolled as a student at a higher education institution</li></ul><ul><li>an academic transcript&nbsp;</li></ul><ul><li>a medical certificate issued no earlier than one month before the date of applying.&nbsp;&nbsp;</li></ul><ul><li>a document for proficiency in the language of teaching in the prospective course of study&nbsp;</li></ul><ul><li>6 colour photographs – 3,5/4,5 cm.</li></ul> </div> </div> </article> </section> </div></article></div><div class="SwitchableGroup js-content-fees_and_funding" data-id="fees_and_funding"><article class="ModulesContainer"><div data-module="Study:tuition_fee" class="Module StudyPortals_Shared_Modules_Study_TuitionFee_TuitionFeeContainer"> <section id="TuitionFeeContainer" class="js-tuitionFact"> <h2>Tuition Fee</h2> <div class="NationalitySelect">Below are the tuition fees for students from Bulgaria </div> <ul class="TuitionFees js-LocalizedContent" data-country-id="2"> <li class="ItemContainer Hidden" data-target="international"> <h3 class="FeeType"> International <i class="InfoIcon lnr-info" data-tooltip-text=" The international tuition fee is applicable to students from outside the European Economic Area who want to study within the EEA, or to students who want to study outside the EEA but are not nationals of that country. " style="position: relative;"> <div class="Tooltip" style="display: none;">
+			<div class="TooltipInner">
+				 The international tuition fee is applicable to students from outside the European Economic Area who want to study within the EEA, or to students who want to study outside the EEA but are not nationals of that country. 
+			</div>
+			<div class="TooltipArrow">
+      </div>
+		</div></i> </h3> <div class="Item"> <i class="TuitionFeesIcon lnr-bag-coins">
+    </i>
+    
+    <div class="FeeDetails"> 
+    
+    <div class="Amount"> <span class="js-currencyAmount" data-currency="EUR" data-amount="2500" 
+    data-currency-rewrite="true" 
+    data-currency-symbol="no" data-original_html=" 2500 " data-converted_amount="2500" title="Converted from  2500 ">2,500
+    </span> 
+    <span class="CurrencyType" data-currency-text="EUR" data-institution-currency="EUR">EUR
+    
+    </span>
+    
+    <span class="CurrencyType">/year
+    </span> 
+    
+    </div> 
+    
+    <div class="Label">Tuition Fee
+    </div>
+    </div> 
+    </div> 
+    
+    <div class="BasedOn js-basedOn" data-original-unit="semester" 
+    data-unit="year" data-original-amount="1250"> Based on the tuition of <span class="BaseOnBoldText">
+    
+    <span class="js-localeNumber">1,250
+    </span> EUR 
+    
+    </span> per semester 
+    
+    <span class="js-durationText"> during
+    <span class="js-duration BaseOnBoldText" data-rewrite="true" 
+    data-period="months" 
+    data-duration="48" data-days-single="day" data-days-multiple="days" data-weeks-single="week" data-weeks-multiple="weeks" 
+    data-months-single="month" data-months-multiple="months" data-years-single="year" 
+    data-years-multiple="years">4 years
+    </span>
+    </span>. 
+    </div> 
+    </li> 
+    
+    <li class="ItemContainer" data-target="eea"> <h3 class="FeeType"> 
+    EU/EEA
+    
+    <i class="InfoIcon lnr-info" data-tooltip-text="European Economic Area tuition fee is applicable to the students from
+    EU countries, Iceland, Liechtenstein, Norway and Switzerland. " style="position: relative;">
+    
+    <div class="Tooltip" style="display: none;">
+		
+    <div class="TooltipInner">
+				 European Economic Area tuition fee is applicable to the students from EU countries, Iceland, Liechtenstein, Norway and Switzerland. 
+			</div>
+      
+			<div class="TooltipArrow">
+      
+      </div>
+		</div>
+    </i> </h3>
+    
+    <div class="Item"> <i class="TuitionFeesIcon lnr-bag-coins">
+    
+    </i> 
+    <div class="FeeDetails"> <div class="Amount">
+    
+    <span class="js-currencyAmount" data-currency="EUR" data-amount="2500" data-currency-rewrite="true"
+    data-currency-symbol="no" data-original_html=" 2500 " data-converted_amount="2500"
+    title="Converted from  2500 ">2,500
+    </span> 
+    
+    <span class="CurrencyType" data-currency-text="EUR" data-institution-currency="EUR">EUR
+    </span>
+    <span class="CurrencyType">/year
+    </span>
+    </div> 
+    
+    <div class="Label">
+    Tuition Fee
+    </div> 
+ </div> 
+    
+    </div> 
+    <div class="BasedOn js-basedOn" data-original-unit="semester" data-unit="year"
+    data-original-amount="1250"> Based on the tuition of
+    <span class="BaseOnBoldText">
+    <span class="js-localeNumber">1,250</span> EUR 
+    </span> per semester <span class="js-durationText"> during 
+    <span class="js-duration BaseOnBoldText" data-rewrite="true" 
+    data-period="months" data-duration="48" data-days-single="day" data-days-multiple="days" data-weeks-single="week" 
+    data-weeks-multiple="weeks" data-months-single="month" data-months-multiple="months" data-years-single="year" 
+    data-years-multiple="years">4 years</span></span>. </div> </li> <div class="js-notAvailable Hidden"> 
+    
+    <div class="js-notAvailableText">
+    </div> </div> 
+    </ul> </section>
+    
+    </div>
+    </article>
+    </div>          
+    
+    </div> <div id="SwitchableContentButtons" 
+    class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-phone mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-4-desktop"> </div> 
+    
+    </main> 
+    </div>
+    </body>
+    
+    </html>
