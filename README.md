@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirela</h1>
-<h3 align="center">CS student, with a keen interest in cloud engineering and learn new skills in technology, including software engineering,web development, data management and knowledge of cloud computing applications.</h3>
+<h3 align="center">
+Building meaningful solutions for the challenges around me. </h3>
 
-<p 
-Building meaningful solutions for the challenges around me.  </p>
+<p CS student, with a keen interest in cloud engineering and learn new skills in technology, including software engineering,web development, data management and knowledge of cloud computing applications. </p>
 
 - 🔭 I have 3 main technical stacks which I work with **. This includes React with TypeScript and Node.**
 
