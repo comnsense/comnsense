@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirela</h1>
 <h3 align="center">CS student, with a keen interest in cloud engineering and learn new skills in technology, including software engineering,web development, data management and knowledge of cloud computing applications.</h3>
 
-<p align="left"> <a href="https://twitter.com/@ahhwakk" target="blank"><img src="https://img.shields.io/twitter/follow/@ahhwakk?logo=twitter&style=for-the-badge" alt="@ahhwakk" /></a> </p>
+<p 
+Building meaningful solutions for the challenges around me.  </p>
 
 - 🔭 I have 3 main technical stacks which I work with **. This includes React with TypeScript and Node.**
 
