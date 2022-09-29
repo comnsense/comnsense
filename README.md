@@ -1,8 +1,4 @@
-<html><script type="text/javascript">
-    var spector;
-    var captureOnLoad = false;
-    var captureOffScreen = false;
-    window.__SPECTOR_Canvases = [];
+ 
 
     (function() {
         var __SPECTOR_Origin_EXTENSION_GetContext = HTMLCanvasElement.prototype.getContext;
@@ -727,5 +723,4 @@
  
 <h3 align="center">
 Building meaningful solutions for the challenges around me. </h3>
-
-</body></html>
+ 
