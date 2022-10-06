@@ -1,30 +1,12 @@
- 
+ ![Mirela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirelse&show_icons=true&theme=onedark)
+![Wakatime stats](https://wakatime.com/share/@5d7a86b1-e8e4-45f2-ba3e-478b59c1050e/34ac2bc8-9fd3-44e3-a69e-6b5951971410.svg)
+![image](https://raw.githubusercontent.com/mirelse/mirelse/main/assets/github-contributions.svg)
+
 
 
 <div class="codersrank-activity">
       <div class="codersrank-activity-chart">
-        
-        
  
-
-
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-
-   
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahwakk#1079" width="40" height="30" align="middle"></a>
-
-
-    
-   
-
-
-  <a href="mailto:ahwakk@icloud.com" target="_blank"><img src="https://img.shields.io/badge/gmail-c14438?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="25"></a>
-
-  <a href="https://twitter.com/ahhwakk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" height="25"></a>
-
-
-  <a href="https://t.me/ahhwak" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" height="25"></a>    
-
   
 
 
