@@ -38,7 +38,7 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=mirelse&amp;count_private=false&amp;hide_border=true&amp;bg_color=0d1117&amp;theme=github">
   </p>
        
-        ![Mirela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirelse&show_icons=true&theme=onedark)
+        [Mirela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirelse&show_icons=true&theme=onedark)
 
        
  ![Wakatime stats](https://wakatime.com/share/@5d7a86b1-e8e4-45f2-ba3e-478b59c1050e/34ac2bc8-9fd3-44e3-a69e-6b5951971410.svg)
