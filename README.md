@@ -10,7 +10,7 @@
 <br/>
 
 
-<div class="codersrank-activity">
+<div class="codersrank-activity"  align="center">
       <div class="codersrank-activity-chart">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comnsense&amp;bg_color=0D1117&amp;title_color=f9826c&amp;text_color=fdfdfd&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" height="180em">
  
