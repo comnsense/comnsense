@@ -15,10 +15,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comnsense&amp;bg_color=0D1117&amp;title_color=f9826c&amp;text_color=fdfdfd&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" height="180em">
  
  
- <summary><b>📈 GitHub Streaks</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=comnsense&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=0000&ampcount_private=true&amp;include_all_commits=true" height="180em">
+
     </p></div>
  
  
