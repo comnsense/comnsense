@@ -1,6 +1,6 @@
 
-<section>
-<div align="center">
+<div align="center"><section>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=comnsense&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
 <div align="center">
