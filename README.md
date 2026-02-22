@@ -5,5 +5,5 @@
 <br>
  
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,dotnet,react,git" />
-</p>
+ 
 </section> </div>
