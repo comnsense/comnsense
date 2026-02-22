@@ -9,6 +9,12 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=comnsense&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comnsense&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=comnsense&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -18,7 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comnsense&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=comnsense&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comnsense&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
