@@ -15,13 +15,15 @@
 </section> </div>
 
 
-
+<section>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=comnsense&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />gn
 </div>
+</section>section>
+<section>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comnsense&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
-
+</section>
 
