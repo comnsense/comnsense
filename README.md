@@ -34,6 +34,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comnsense&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=comnsense&theme=react-dark&hide_border=true&locale=bg" alt="GitHub Activity Graph" />
+</div>
 </div>
 </section>
 
