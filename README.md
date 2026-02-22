@@ -16,3 +16,6 @@
 </div>
 </section>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=comnsense&theme=transparent&hide_border=true&mode=weekly&type=png" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=comnsense&theme=transparent&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats)
